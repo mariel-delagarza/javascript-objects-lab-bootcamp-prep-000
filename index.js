@@ -1,2 +1,3 @@
 var recipes = {}
-var updateObjectWithKeyAndValue = recipes.assign()
+var updateObjectWithKeyAndValue = object.assign({}, recipes)
+del
