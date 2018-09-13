@@ -1,3 +1,4 @@
 var recipes = {}
-var updateObjectWithKeyAndValue = object.assign({}, recipes)
-del
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
